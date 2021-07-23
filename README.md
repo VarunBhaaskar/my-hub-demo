@@ -6,3 +6,5 @@ My first update in readme.
 __updating from exaple branch, ha ha__
 
 updating before rebase
+
+trying to create conflict locally.
